@@ -1,2 +1,2 @@
 # cppActions
-cppActions, proejcts
+proejcts
