@@ -7,10 +7,11 @@
 #include "md5.h"
 
 #ifndef bool
-typedef enum {
+typedef enum
+{
 	false,
 	true
-} bool;
+}bool;
 #endif
 
 int main(int argc, char *argv[])
