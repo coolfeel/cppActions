@@ -1,0 +1,6 @@
+﻿  main.c
+f:\study\projects\cppprojects\cppactions\md5\md5\md5\main.c(1): warning C4083: 应输入“newline”；找到标识符“；”
+f:\study\projects\cppprojects\cppactions\md5\md5\md5\main.c(51): warning C4267: “函数”: 从“size_t”转换到“unsigned int”，可能丢失数据
+  md5.c
+  正在生成代码...
+  md5.vcxproj -> F:\study\Projects\cppProjects\cppActions\MD5\md5\x64\Debug\md5.exe
